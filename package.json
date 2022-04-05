@@ -35,5 +35,8 @@
     "jest": "^27.5.1",
     "jest-cli": "^27.5.1",
     "prettier": "^2.5.1"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
   }
 }
