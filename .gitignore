@@ -1,0 +1,15 @@
+node_modules/
+proba*.*
+*.log
+*.swp
+*.swo
+*.idea
+.tern-port
+test*.js
+dist/
+node_modules/
+public/css/
+.sass-cache/
+flow-typed
+mongodb
+images/

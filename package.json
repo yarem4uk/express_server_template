@@ -1,0 +1,39 @@
+{
+  "name": "nodejs-template",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "template",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yarem4uk/nodejs-packages.git"
+  },
+  "author": "Alex Yarem4uk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yarem4uk/nodejs-packages/issues"
+  },
+  "homepage": "https://github.com/yarem4uk/nodejs-packages#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.5",
+    "@babel/eslint-parser": "^7.17.0",
+    "@babel/node": "^7.16.8",
+    "@babel/preset-env": "^7.16.11",
+    "babel-jest": "^27.5.1",
+    "eslint": "^8.10.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.4.0",
+    "eslint-plugin-babel": "^5.3.1",
+    "eslint-plugin-functional": "^3.7.2",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-jest": "^26.1.1",
+    "eslint-plugin-prettier": "^4.0.0",
+    "jest": "^27.5.1",
+    "jest-cli": "^27.5.1",
+    "prettier": "^2.5.1"
+  }
+}

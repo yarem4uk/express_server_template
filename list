@@ -1,0 +1,17 @@
+@babel/cli
+@babel/core
+@babel/eslint-parser
+@babel/node
+@babel/preset-env
+babel-jest
+eslint
+eslint-config-airbnb-base
+eslint-config-prettier
+eslint-plugin-babel
+eslint-plugin-import
+eslint-plugin-jest
+eslint-plugin-prettier
+eslint-plugin-functional
+jest
+jest-cli
+prettier
