@@ -1,11 +1,10 @@
 {
   "name": "nodejs-template",
   "version": "1.0.0",
-  "type": "module",
   "description": "template",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "start": "nodemon --exec babel-node -- server.js"
   },
   "repository": {
     "type": "git",
