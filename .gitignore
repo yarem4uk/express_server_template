@@ -13,3 +13,5 @@ public/css/
 flow-typed
 mongodb
 images/
+.env
+curl
